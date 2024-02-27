@@ -89,16 +89,20 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 
 ### GitHub Stats 🌟
 
-+ ![sumy7](https://komarev.com/ghpvc/?username=IsaWang-05)
-
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=IsaWang-05" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
-
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=IsaWang-05&theme=minimal" />
-</div>
+<table align="center">
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center" width="33%">
+      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=IsaWang-05" />
+    </td>
+    <!-- Top Languages -->
+    <td align="center" width="33%">
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8" />
+    </td>
+    <!-- LeetCode Stats -->
+    <td align="center" width="33%">
+      <img src="https://stats.justsong.cn/api/leetcode?username=isawyying" />
+    </td>
+  </tr>
+</table>
 
