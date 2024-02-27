@@ -1,40 +1,86 @@
 ## Hi there 👋 This is Isa(Yaying) Wang
 
-MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="columbia" src="./static/nyu-icon.png" />
+MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
 
 ### Let's Connect 🙌
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br />
 [linkedin]: https://www.linkedin.com/in/isa-wang/
+<br />
 
-### Technology Stack ☁️
+### Technology Stack 💻
 
-<!-- Languages -->
-<img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+#### Languages
+<table>
+<tr>
+<td align="center" width="96">
+    <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /><br>Python
+</td>
+<td align="center" width="96">
+    <img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /><br>Java
+</td>
+<td align="center" width="96">
+    <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /><br>JavaScript
+</td>
+<td align="center" width="96">
+    <img alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" /><br>C
+</td>
+<td align="center" width="96">
+    <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /><br>SQL
+</td>
+<td align="center" width="96">
+    <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /><br>HTML5
+</td>
+<td align="center" width="96">
+    <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /><br>CSS
+</td>
+</tr>
+</table>
 
-<br /><br />
+#### Databases
+<table>
+<tr>
+<td align="center" width="96">
+    <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /><br>PostgreSQL
+</td>
+<td align="center" width="96">
+    <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /><br>MySQL
+</td>
+<td align="center" width="96">
+    <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /><br>MongoDB
+</td>
+<td align="center" width="96">
+    <img alt="Neo4j" width="40px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe.png" /><br>Neo4j
+</td>
+</tr>
+</table>
 
-<!-- Databases -->
-<img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Neo4j" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/neo4j/neo4j.png" />
+#### Frameworks & Libraries
+<table>
+<tr>
+<td align="center" width="96">
+    <img alt="Flask" width="40px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" /><br>Flask
+</td>
+<td align="center" width="96">
+    <img alt="FastAPI" width="40px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /><br>FastAPI
+</td>
+<td align="center" width="96">
+    <img alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" /><br>Pandas
+</td>
+<td align="center" width="96">
+    <img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy
+</td>
+</tr>
+</table>
 
-<br /><br />
-
-<!-- Frameworks & Libraries -->
-<img align="left" alt="Flask" width="30px" height="30px" src="https://raw.githubusercontent.com/pallets/flask/master/artwork/logo-full.png" />
-<img align="left" alt="FastAPI" width="30px" height="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
-<img align="left" alt="Pandas" width="30px" height="30px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
-<img align="left" alt="Numpy" width="30px" height="30px" src="https://numpy.org/images/logo.svg" />
-
-<br /><br />
-
-<!-- Cloud, DevOps & Tools -->
-<img align="left" alt="AWS" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="GCP" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/efb3b6a4d82e4ef2fca1e82350fe8e3517d3494d/topics
+#### Cloud, DevOps & Tools
+<table>
+<tr>
+<td align="center" width="96">
+    <img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS
+</td>
+<td align="center" width="96">
+    <img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP
+</td>
+</tr>
+</table>
