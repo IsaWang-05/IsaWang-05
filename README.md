@@ -2,11 +2,10 @@
 
 MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
 
-### Let's Connect 🙌
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<br />
-[linkedin]: https://www.linkedin.com/in/isa-wang/
-<br />
+### Let's Connect 🧑‍🤝‍🧑
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
+
 
 ### Technology Stack 💻
 
@@ -84,3 +83,22 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 </td>
 </tr>
 </table>
+
+
+
+
+### GitHub Stats 🌟
+
++ ![sumy7](https://komarev.com/ghpvc/?username=IsaWang-05)
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=IsaWang-05" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=IsaWang-05&theme=minimal" />
+</div>
+
