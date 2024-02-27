@@ -93,11 +93,11 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
   <tr>
     <!-- GitHub Stats -->
     <td align="center" width="33%">
-      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=IsaWang-05" />
+      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=IsaWang-05&count_private=true" />
     </td>
     <!-- Top Languages -->
     <td align="center" width="33%">
-      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8" />
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8&count_private=true&hide=jupyternotebook" />
     </td>
     <!-- LeetCode Stats -->
     <td align="center" width="33%">
