@@ -5,6 +5,8 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 ### Let's Connect 🧑‍🤝‍🧑
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/isawyying/)
+
 
 
 ### Technology Stacks 💻
@@ -19,13 +21,13 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
     <img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /><br>Java
 </td>
 <td align="center" width="96">
-    <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /><br>JavaScript
-</td>
-<td align="center" width="96">
     <img alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" /><br>C
 </td>
 <td align="center" width="96">
     <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /><br>SQL
+</td>
+<td align="center" width="96">
+    <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /><br>JavaScript
 </td>
 <td align="center" width="96">
     <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /><br>HTML5
@@ -74,6 +76,12 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 </td>
 <td align="center" width="96">
     <img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP
+<td align="center" width="96">
+    <img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/AirflowLogo.png" /><br>Airflow
+</td>
+<td align="center" width="96">
+    <img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Apache_Spark_logo.svg" /><br>Spark
+</td>
 </td>
 </tr>
 </table>
