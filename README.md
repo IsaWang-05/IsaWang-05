@@ -2,10 +2,10 @@
 
 MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E2B4BDBD&width=435&lines=I+enjoy+coding+to+solve+issues%2C+and+positively+impact+lives.+%3A%29)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=I+enjoy+coding+to+solve+issues)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=and+positively+impact+lives!+😛)](https://git.io/typing-svg)
 
-
-### Let's Connect 🧑‍🤝‍🧑
+### Let's Connect! 🧑‍🤝‍🧑
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/isawyying/)
@@ -91,9 +91,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 
 
 
-
-
-### GitHub Stats 🌟
+### My GitHub & Leetcode Stats 🌟
 
 <table align="center">
   <tr>
