@@ -77,10 +77,10 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <td align="center" width="96">
     <img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP
 <td align="center" width="96">
-    <img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/AirflowLogo.png" /><br>Airflow
+    <img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow
 </td>
 <td align="center" width="96">
-    <img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Apache_Spark_logo.svg" /><br>Spark
+    <img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark
 </td>
 </td>
 </tr>
