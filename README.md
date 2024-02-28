@@ -2,6 +2,9 @@
 
 MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E2B4BDBD&width=435&lines=I+enjoy+coding+because+it+lets+me+connect+with+others+in+meaningful+ways%2C+using+technology+to+solve+real-world+problems+and+make+a+positive+impact+on+people's+lives+every+day.)
+
+
 ### Let's Connect 🧑‍🤝‍🧑
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
