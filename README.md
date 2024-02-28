@@ -7,9 +7,9 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
 
 
-### Technology Stack 💻
+### Technology Stacks 💻
 
-#### Languages
+#### Programming Languages & Markup
 <table>
 <tr>
 <td align="center" width="96">
@@ -36,7 +36,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 </tr>
 </table>
 
-#### Databases
+#### Databases & Storage
 <table>
 <tr>
 <td align="center" width="96">
@@ -54,7 +54,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 </tr>
 </table>
 
-#### Frameworks & Libraries
+#### Frameworks, Libraries, & Tools
 <table>
 <tr>
 <td align="center" width="96">
@@ -69,12 +69,6 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <td align="center" width="96">
     <img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy
 </td>
-</tr>
-</table>
-
-#### Cloud, DevOps & Tools
-<table>
-<tr>
 <td align="center" width="96">
     <img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS
 </td>
@@ -83,6 +77,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 </td>
 </tr>
 </table>
+
 
 
 
@@ -97,7 +92,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
     </td>
     <!-- Top Languages -->
     <td align="center" width="33%">
-      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8&count_private=true&hide=jupyternotebook" />
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaWang-05&layout=compact&langs_count=8&count_private=true&hide=jupyter%20notebook" />
     </td>
     <!-- LeetCode Stats -->
     <td align="center" width="33%">
