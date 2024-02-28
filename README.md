@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Isa(Yaying) Wang
 
-MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
+MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/columbia-icon.png" /> | BA in Econ w/ Minor in CS @ NYU <img height="20px" alt="nyu" src="./static/nyu-icon.png" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=I+enjoy+coding+to+solve+issues)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=and+positively+impact+lives!+😛)](https://git.io/typing-svg)
