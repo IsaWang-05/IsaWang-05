@@ -99,7 +99,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
     <img alt="PowerBI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" /><br>PowerBI
 </td>
 <td align="center" width="96">
-    <img alt="Matplotlib" width="40px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" /><br>Matplotlib
+    <img alt="Matplotlib" width="40px" src="https://matplotlib.org/3.1.1/_static/logo2.png" /><br>Matplotlib
 </td>
 <td align="center" width="96">
     <img alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /><br>Seaborn
