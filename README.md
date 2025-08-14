@@ -30,7 +30,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 #### Databases & Data Warehouses
 <table>
 <tr>
-<td align="center" width="96"><img alt="Snowflake" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" /><br>Snowflake</td>
+<td align="center" width="96"><img alt="Snowflake" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" /><br>Snowflake</td>
 <td align="center" width="96"><img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /><br>SQL Server</td>
 <td align="center" width="96"><img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /><br>PostgreSQL</td>
 <td align="center" width="96"><img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /><br>MySQL</td>
@@ -57,7 +57,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <td align="center" width="96"><img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy</td>
 <td align="center" width="96"><img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS</td>
 <td align="center" width="96"><img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP</td>
-<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Alteryx_logo_2019.svg" /><br>Alteryx</td>
+<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://seeklogo.com/images/A/alteryx-logo-CECA1ED0AE-seeklogo.com.png" /><br>Alteryx</td>
 <td align="center" width="96"><img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow</td>
 <td align="center" width="96"><img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark</td>
 </tr>
@@ -67,10 +67,11 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <table>
 <tr>
 <td align="center" width="96"><img alt="Flask" width="40px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" /><br>Flask</td>
-<td align="center" width="96"><img alt="FastAPI" width="40px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /><br>FastAPI</td>
+<td align="center" width="96"><img alt="FastAPI" width="40px" src="https://avatars.githubusercontent.com/u/51670916?s=200&v=4" /><br>FastAPI</td>
 </tr>
 </table>
 
+---
 
 ### My GitHub & Leetcode Stats 🌟
 
