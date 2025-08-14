@@ -17,96 +17,57 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 #### Programming Languages & Markup
 <table>
 <tr>
-<td align="center" width="96">
-    <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /><br>Python
-</td>
-<td align="center" width="96">
-    <img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /><br>Java
-</td>
-<td align="center" width="96">
-    <img alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" /><br>C
-</td>
-<td align="center" width="96">
-    <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /><br>SQL
-</td>
-<td align="center" width="96">
-    <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /><br>JavaScript
-</td>
-<td align="center" width="96">
-    <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /><br>HTML5
-</td>
-<td align="center" width="96">
-    <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /><br>CSS
-</td>
+<td align="center" width="96"><img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /><br>SQL</td>
+<td align="center" width="96"><img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /><br>Python</td>
+<td align="center" width="96"><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /><br>HTML</td>
+<td align="center" width="96"><img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /><br>CSS</td>
+<td align="center" width="96"><img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /><br>JavaScript</td>
+<td align="center" width="96"><img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /><br>Java</td>
+<td align="center" width="96"><img alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" /><br>C</td>
 </tr>
 </table>
 
-#### Databases & Storage
+#### Databases & Data Warehouses
 <table>
 <tr>
-<td align="center" width="96">
-    <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /><br>PostgreSQL
-</td>
-<td align="center" width="96">
-    <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /><br>MySQL
-</td>
-<td align="center" width="96">
-    <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /><br>MongoDB
-</td>
-<td align="center" width="96">
-    <img alt="Neo4j" width="40px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe.png" /><br>Neo4j
-</td>
-</tr>
-</table>
-
-#### Frameworks, Libraries, & Tools
-<table>
-<tr>
-<td align="center" width="96">
-    <img alt="Flask" width="40px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" /><br>Flask
-</td>
-<td align="center" width="96">
-    <img alt="FastAPI" width="40px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /><br>FastAPI
-</td>
-<td align="center" width="96">
-    <img alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" /><br>Pandas
-</td>
-<td align="center" width="96">
-    <img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy
-</td>
-<td align="center" width="96">
-    <img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS
-</td>
-<td align="center" width="96">
-    <img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP
-<td align="center" width="96">
-    <img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow
-</td>
-<td align="center" width="96">
-    <img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark
-</td>
-</td>
+<td align="center" width="96"><img alt="Snowflake" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" /><br>Snowflake</td>
+<td align="center" width="96"><img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /><br>SQL Server</td>
+<td align="center" width="96"><img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /><br>PostgreSQL</td>
+<td align="center" width="96"><img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /><br>MySQL</td>
+<td align="center" width="96"><img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /><br>MongoDB</td>
+<td align="center" width="96"><img alt="Neo4j" width="40px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe.png" /><br>Neo4j</td>
 </tr>
 </table>
 
 #### Visualization
 <table>
 <tr>
-<td align="center" width="96">
-    <img alt="Tableau" width="40px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" /><br>Tableau
-</td>
-<td align="center" width="96">
-    <img alt="PowerBI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" /><br>PowerBI
-</td>
-<td align="center" width="96">
-    <img alt="Matplotlib" width="40px" src="https://matplotlib.org/3.1.1/_static/logo2.png" /><br>Matplotlib
-</td>
-<td align="center" width="96">
-    <img alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /><br>Seaborn
-</td>
-<td align="center" width="96">
-    <img alt="D3.js" width="40px" src="https://d3js.org/logo.svg" /><br>D3.js
-</td>
+<td align="center" width="96"><img alt="Tableau" width="40px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" /><br>Tableau</td>
+<td align="center" width="96"><img alt="PowerBI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" /><br>Power BI</td>
+<td align="center" width="96"><img alt="Matplotlib" width="40px" src="https://matplotlib.org/3.1.1/_static/logo2.png" /><br>Matplotlib</td>
+<td align="center" width="96"><img alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /><br>Seaborn</td>
+<td align="center" width="96"><img alt="D3.js" width="40px" src="https://d3js.org/logo.svg" /><br>D3.js</td>
+</tr>
+</table>
+
+#### Libraries & Tools
+<table>
+<tr>
+<td align="center" width="96"><img alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" /><br>Pandas</td>
+<td align="center" width="96"><img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy</td>
+<td align="center" width="96"><img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS</td>
+<td align="center" width="96"><img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP</td>
+<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Alteryx_logo_2019.svg" /><br>Alteryx</td>
+<td align="center" width="96"><img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow</td>
+<td align="center" width="96"><img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark</td>
+</tr>
+</table>
+
+#### Frameworks
+<table>
+<tr>
+<td align="center" width="96"><img alt="Flask" width="40px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" /><br>Flask</td>
+<td align="center" width="96"><img alt="FastAPI" width="40px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /><br>FastAPI</td>
 </tr>
 </table>
 
