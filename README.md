@@ -11,7 +11,6 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-wang/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/isawyying/)
 
----
 
 ### Technology Stacks 💻
 
@@ -58,7 +57,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <td align="center" width="96"><img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy</td>
 <td align="center" width="96"><img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS</td>
 <td align="center" width="96"><img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP</td>
-<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alteryx_logo.png/320px-Alteryx_logo.png" /><br>Alteryx</td>
+<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" /><br>Alteryx</td>
 <td align="center" width="96"><img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow</td>
 <td align="center" width="96"><img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark</td>
 </tr>
@@ -74,7 +73,6 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 
 ---
 
----
 
 ### My GitHub & Leetcode Stats 🌟
 
