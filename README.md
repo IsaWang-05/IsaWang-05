@@ -5,7 +5,6 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=I+enjoy+coding+to+solve+issues)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=B2CCF7FF&repeat=false&random=false&width=435&lines=and+positively+impact+lives!+😛)](https://git.io/typing-svg)
 
----
 
 ### Let's Connect! 🧑‍🤝‍🧑
 
@@ -59,7 +58,7 @@ MSCS @ Columbia University <img height="20px" alt="columbia" src="./static/colum
 <td align="center" width="96"><img alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" /><br>Numpy</td>
 <td align="center" width="96"><img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /><br>AWS</td>
 <td align="center" width="96"><img alt="GCP" width="40px" src="https://cloud.google.com/_static/cloud/images/favicons/onecloud/super_cloud.png" /><br>GCP</td>
-<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://logodownload.org/wp-content/uploads/2021/10/alteryx-logo.png" /><br>Alteryx</td>
+<td align="center" width="96"><img alt="Alteryx" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alteryx_logo.png/320px-Alteryx_logo.png" /><br>Alteryx</td>
 <td align="center" width="96"><img alt="Airflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /><br>Airflow</td>
 <td align="center" width="96"><img alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /><br>Spark</td>
 </tr>
